@@ -1,0 +1,12 @@
+y={1,2,4,5,2,7,8}
+print(y)
+y.discard(4)
+print(y)
+y.remove(1)
+print(y)
+y.pop()
+print(y)
+y.pop()
+print(y)
+y.clear()
+print(y)

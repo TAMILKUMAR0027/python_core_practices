@@ -12,3 +12,6 @@ d={1:'one',2:'two'}
 d4={2:'three'}
 d.update(d4)
 print(d)
+
+square={x:x*x for x in range(11)if x%2==1}
+print(square)
